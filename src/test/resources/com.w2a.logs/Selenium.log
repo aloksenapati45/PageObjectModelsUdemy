@@ -1,23 +1,23 @@
-DEBUG   2025-11-02 11:23:53,339 [main] devpinoyLogger  - Config file loaded
-DEBUG   2025-11-02 11:23:53,344 [main] devpinoyLogger  - OR file loaded
-DEBUG   2025-11-02 11:24:03,826 [main] devpinoyLogger  - Chrome launched
-DEBUG   2025-11-02 11:24:16,023 [main] devpinoyLogger  - Clicking of an element signinlink_XPATH
-DEBUG   2025-11-02 11:24:17,287 [main] devpinoyLogger  - Clicking of an element emailfield_XPATH and passing value as senapatiasish11@gmail.com
-DEBUG   2025-11-02 11:24:17,557 [main] devpinoyLogger  - Clicking of an element nextbuttonlink_XPATH
-DEBUG   2025-11-02 11:24:18,005 [main] devpinoyLogger  - Clicking of an element passwordfield_XPATH and passing value as Alok@7205767245
-DEBUG   2025-11-02 11:24:18,182 [main] devpinoyLogger  - Clicking of an element signinbuttonlink_XPATH
-DEBUG   2025-11-02 11:25:05,166 [main] devpinoyLogger  - Clicking of an element modulebutton_CSS
-DEBUG   2025-11-02 11:25:07,311 [main] devpinoyLogger  - Clicking of an element accountsbutton_XPATH
-DEBUG   2025-11-02 11:25:10,877 [main] devpinoyLogger  - Clicking of an element createaccountbutton_XPATH
-DEBUG   2025-11-02 11:25:11,087 [main] devpinoyLogger  - Clicking of an element accountnamefield_Xpath and passing value as Alok Senapati
-DEBUG   2025-11-02 11:25:22,391 [main] devpinoyLogger  - Clicking of an element phonefield_XPATH and passing value as 7.205767245E9
-DEBUG   2025-11-02 11:25:24,377 [main] devpinoyLogger  - Clicking of an element accountsitefield_XPATH and passing value as Normal
-DEBUG   2025-11-02 11:25:25,709 [main] devpinoyLogger  - Clicking of an element faxfield_XPATH and passing value as 544698.0
-DEBUG   2025-11-02 11:25:26,511 [main] devpinoyLogger  - Clicking of an element parrentaccountfield_XPATH and passing value as Alok
-DEBUG   2025-11-02 11:25:27,074 [main] devpinoyLogger  - Clicking of an element websitefield_XPATH and passing value as zoho.com
-DEBUG   2025-11-02 11:25:27,077 [main] devpinoyLogger  - Clicking of an element accounnumberfield_Xpath and passing value as 12546.0
-DEBUG   2025-11-02 11:25:27,545 [main] devpinoyLogger  - Clicking of an element tickersymbolfield_XPATH and passing value as PID
-DEBUG   2025-11-02 11:25:28,117 [main] devpinoyLogger  - Clicking of an element employeesfield_XPATH and passing value as Regular
-DEBUG   2025-11-02 11:25:28,972 [main] devpinoyLogger  - Clicking of an element annualrevenufield_XPATH and passing value as 225.0
-DEBUG   2025-11-02 11:25:29,825 [main] devpinoyLogger  - Clicking of an element siccodefield_XPATH and passing value as 258693.0
-DEBUG   2025-11-02 11:25:46,796 [main] devpinoyLogger  - Close the Browser.
+DEBUG   2025-11-03 13:31:57,631 [main] devpinoyLogger  - Config file loaded
+DEBUG   2025-11-03 13:31:57,647 [main] devpinoyLogger  - OR file loaded
+DEBUG   2025-11-03 13:32:30,159 [main] devpinoyLogger  - Chrome launched
+DEBUG   2025-11-03 13:32:42,191 [main] devpinoyLogger  - Clicking of an element signinlink_XPATH
+DEBUG   2025-11-03 13:32:43,477 [main] devpinoyLogger  - Clicking of an element emailfield_XPATH and passing value as senapatiasish11@gmail.com
+DEBUG   2025-11-03 13:32:43,676 [main] devpinoyLogger  - Clicking of an element nextbuttonlink_XPATH
+DEBUG   2025-11-03 13:32:44,031 [main] devpinoyLogger  - Clicking of an element passwordfield_XPATH and passing value as Alok@7205767245
+DEBUG   2025-11-03 13:32:44,218 [main] devpinoyLogger  - Clicking of an element signinbuttonlink_XPATH
+DEBUG   2025-11-03 13:33:39,818 [main] devpinoyLogger  - Clicking of an element modulebutton_CSS
+DEBUG   2025-11-03 13:33:42,601 [main] devpinoyLogger  - Clicking of an element accountsbutton_XPATH
+DEBUG   2025-11-03 13:33:45,182 [main] devpinoyLogger  - Clicking of an element createaccountbutton_XPATH
+DEBUG   2025-11-03 13:33:45,184 [main] devpinoyLogger  - Clicking of an element accountnamefield_Xpath and passing value as Alok Senapati
+DEBUG   2025-11-03 13:33:50,505 [main] devpinoyLogger  - Clicking of an element phonefield_XPATH and passing value as 7.205767245E9
+DEBUG   2025-11-03 13:33:50,940 [main] devpinoyLogger  - Clicking of an element accountsitefield_XPATH and passing value as Normal
+DEBUG   2025-11-03 13:33:51,367 [main] devpinoyLogger  - Clicking of an element faxfield_XPATH and passing value as 544698.0
+DEBUG   2025-11-03 13:33:51,782 [main] devpinoyLogger  - Clicking of an element parrentaccountfield_XPATH and passing value as Alok
+DEBUG   2025-11-03 13:33:52,264 [main] devpinoyLogger  - Clicking of an element websitefield_XPATH and passing value as zoho.com
+DEBUG   2025-11-03 13:33:52,264 [main] devpinoyLogger  - Clicking of an element accounnumberfield_Xpath and passing value as 12546.0
+DEBUG   2025-11-03 13:33:52,633 [main] devpinoyLogger  - Clicking of an element tickersymbolfield_XPATH and passing value as PID
+DEBUG   2025-11-03 13:33:53,035 [main] devpinoyLogger  - Clicking of an element employeesfield_XPATH and passing value as Regular
+DEBUG   2025-11-03 13:33:53,385 [main] devpinoyLogger  - Clicking of an element annualrevenufield_XPATH and passing value as 225.0
+DEBUG   2025-11-03 13:33:53,869 [main] devpinoyLogger  - Clicking of an element siccodefield_XPATH and passing value as 258693.0
+DEBUG   2025-11-03 13:33:55,025 [main] devpinoyLogger  - Close the Browser.

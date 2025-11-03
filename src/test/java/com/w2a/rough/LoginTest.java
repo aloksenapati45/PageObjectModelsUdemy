@@ -11,5 +11,6 @@ public class LoginTest {
         signin.goToNextButton();
         signin.goToPasswordField("Alok@7205767245");
         signin.goToSignInButton();
+        System.out.println("Alok Senapati");
     }
 }
