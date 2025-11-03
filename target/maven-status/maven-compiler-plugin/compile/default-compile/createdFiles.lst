@@ -1,0 +1,16 @@
+com\w2a\pages\CRM\ZOHO_CRMHomepage_ModuleSideMenu.class
+com\w2a\pages\Zoho_HomePage.class
+com\w2a\pages\CRM\CRMAccountsPage\CRM_HOMEPAGE_AccountTopMenu.class
+com\w2a\utilites\ExcelReader.class
+com\w2a\pages\SignInPage.class
+com\w2a\utilites\Utilites.class
+com\w2a\pages\HomePage.class
+com\w2a\pages\CRM\CRMAccountsPage\CreateAccountPage\ZOHO_CRM_CreateAccountPage.class
+com\w2a\utilites\DBManager.class
+com\w2a\utilites\TestConfig.class
+com\w2a\utilites\MonitoringMail$SMTPAuthenticator.class
+com\w2a\utilites\MonitoringMail.class
+com\w2a\pages\CRM\CRMHomePage_SideMainMenuPage.class
+com\w2a\listeners\CustomListeners.class
+com\w2a\utilites\ExtentManager.class
+com\w2a\base\Page.class

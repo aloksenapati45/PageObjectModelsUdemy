@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <theme>standard</theme>
+        <encoding>UTF-8</encoding>
+        <protocol>https</protocol>
+        <title>W2A Automation Report</title>
+        <reportName>Automation Test Results</reportName>
+        <documentTitle>W2A Automation Report</documentTitle>
+        <timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+        <js>
+            document.getElementsByClassName('brand-logo')[0].innerHTML = 'Data Driven Framework';
+        </js>
+        <css>
+            .brand-logo { background-color: #1976d2; }
+        </css>
+    </configuration>
+</extentreports>
